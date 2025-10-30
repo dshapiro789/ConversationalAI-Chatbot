@@ -1,5 +1,5 @@
-# ConversationalAI-Chatbot
-A conversational AI chatbot (speech to speech) using Google Gemini Live
+# Gemini Conversational Voice Assistant
+A customizable conversational voice assistant plugin powered by the Gemini 2.5 Native Audio (Live) API. Engage in real-time voice conversations with an AI that can be tailored to any brand or purpose.
 
 <div align="center">
 <img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
